@@ -1,6 +1,4 @@
-Sure, here's a README.md template that you can use to provide instructions and information about your package:
 
-```markdown
 # Cloud Run Flask Template
 
 [![PyPI version](https://badge.fury.io/py/cloud-run-flask-template.svg)](https://badge.fury.io/py/cloud-run-flask-template)
