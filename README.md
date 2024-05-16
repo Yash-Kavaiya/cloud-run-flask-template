@@ -12,23 +12,23 @@ You can install the Cloud Run Flask Template package using pip:
 ```bash
 pip install cloud-run-flask-template
 ```
-
+![Image](1.png)
 ## Usage
 
 To create a new Flask project using this template, follow these steps:
 
-1. Run the following command, replacing `<project_name>` with your desired project name:
+1. Run the following command:
 
 ```bash
-cloud_run_flask_template <project_name>
+cloud_run_flask_template 
 ```
-
+![Image](2.png)
 2. Navigate to the newly created project directory:
 
 ```bash
 cd <project_name>
 ```
-
+![Image](3.png)
 3. Start developing your Flask application within this project structure.
 
 ## Project Structure
